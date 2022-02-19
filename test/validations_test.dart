@@ -1,4 +1,4 @@
-import 'package:simple_validations/validations.dart';
+import 'package:simple_validations/simple_validations.dart';
 import 'package:test/test.dart';
 
 void main() {
